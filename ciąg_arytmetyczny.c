@@ -1,3 +1,8 @@
+/*
+Podano pierwszy i drugi element ciągu arytmetycznego. 
+Wymagane jest napisanie programu, który obliczy element progresji po jego numerze.
+*/
+
 #include <stdio.h>
 #include <math.h> 
 
