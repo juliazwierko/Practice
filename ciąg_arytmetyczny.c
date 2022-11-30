@@ -18,7 +18,7 @@ int main(void)
     printf("Różnicy podanych liczb: %d\n",D);
 
     int n;
-    printf("prosze numer elementu ciaga: ");
+    printf("prosze podac numer elementu ciaga: ");
     scanf("%d", &n);
     printf("Podany numer: %d\n",n);
 
