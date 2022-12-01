@@ -18,4 +18,6 @@ Wyjście
 
 W jednym wierszu pliku wyjściowego OUTPUT.TXT należy wypisać wszystkie pierwiastki podanego 
 równania sześciennego w porządku rosnącym, oddzielone spacją. Wiele pierwiastków powinno być wyświetlanych tylko raz.
+
+input: 1 -3 0 0; output: 0 3;
 */
