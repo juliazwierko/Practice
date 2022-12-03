@@ -1,5 +1,7 @@
 /*
-
+    napisać program, który po wprowadzeniu hasła generuje nowe, 
+    które będzie sumą Twojego hasła i liczby jedynek w liczbie
+    Twojego hasła zapisanej w systemie binarnym (składającej się z 1 i 0)
 */
 #include <stdio.h>
 #include <stdlib.h>
