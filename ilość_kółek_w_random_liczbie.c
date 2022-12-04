@@ -1,3 +1,18 @@
+/*
+Pewnego razu w bezkresie Runetu pojawił się następujący rebus:
+
+     157892 = 3
+     203516 = 2
+     409578 = 4
+     236271 = ?
+Nikt nigdy nie był w stanie tego rozgryźć. 
+Później okazało się, że liczba w prawej kolumnie jest równa sumie rund, 
+które są w cyfrach liczby po lewej stronie. Twoim zadaniem jest napisanie programu, 
+który określi, ile rund ma liczba.
+
+W pliku wyjściowym OUTPUT.TXT wypisujemy pojedynczą liczbę - liczbę okrążeń w liczbie N.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
