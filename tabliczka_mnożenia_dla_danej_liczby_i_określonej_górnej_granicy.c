@@ -10,7 +10,7 @@
 int main()
 {
     float x;
-	printf("Wpisz liczbe:\n");
+    printf("Wpisz liczbe:\n");
     scanf("%f", &x);
 
     int g;
@@ -22,5 +22,5 @@ int main()
         iloczyn = i * x;
         printf("5 * %d = %f\n", i,iloczyn);
     } 
-	return 0;
+return 0;
 }
