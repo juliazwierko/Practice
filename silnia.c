@@ -25,3 +25,6 @@ int main()
     else{
         printf("Wybierz inna liczbe\n");
     }
+
+    return 0;
+}
