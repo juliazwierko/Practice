@@ -42,7 +42,6 @@ int main( ){
 
     printf("\n Blok piaty:\n");
 
-    int element = 3;
     for(int i = 0; arr[i]!=-1; i++){
             printf("%d\t", arr[i]);
     }
