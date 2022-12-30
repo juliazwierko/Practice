@@ -3,7 +3,7 @@
  
 void get_error(int key)
 {
-    fprintf(stderr, "%s\n", (key == 1)? "input error" : "error allocate memory");
+    printf(stderr, "%s\n", (key == 1)? "input error" : "error allocate memory");
     exit(key);
 }
  
